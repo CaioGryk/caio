@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BAIRRO - X - (VALERIA)</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Document>
+		<name>Unidades Sociassistenciais - Salvador</name>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> Associação Bahiana de Equoterapia]]></description>
+			<Point>
+				<coordinates>-38.36836,-12.94865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cabula</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VIII - Cabula / Tancredo Neves<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cabula<br/>
+<b>Entidade:</b> Casa do Caminho]]></description>
+			<Point>
+				<coordinates>-38.44635,-12.93302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Suburbio</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> II - Subúrbio / Ilhas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Suburbio<br/>
+<b>Entidade:</b> Centro de Giro Santo Antonio de Pádua]]></description>
+			<Point>
+				<coordinates>-38.46879,-12.83672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> Federação das APAES do Estado da Bahia]]></description>
+			<Point>
+				<coordinates>-38.44869,-12.98641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> Associação e Centro Educacional Infantil Maria Dolores]]></description>
+			<Point>
+				<coordinates>-38.47562,-12.94136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Centro de Lopedia e Psicomotricidade da Bahia - CLPB]]></description>
+			<Point>
+				<coordinates>-38.49437,-12.9751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Funcação Dom Avelar Brandão Vilela]]></description>
+			<Point>
+				<coordinates>-38.51827,-12.99159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cabula</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VIII - Cabula / Tancredo Neves<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cabula<br/>
+<b>Entidade:</b> Instituto Alimentando Vidas]]></description>
+			<Point>
+				<coordinates>-38.46075,-12.93482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> Fundação Lar Harmonia]]></description>
+			<Point>
+				<coordinates>-38.37969,-12.9449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Associação Bahiana de Deficientes do Estado da Bahia]]></description>
+			<Point>
+				<coordinates>-38.52079,-12.98484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Associação Bahiana de Cegos]]></description>
+			<Point>
+				<coordinates>-38.51185,-12.98566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> Associação Beneficente e Cultural de Amaralina]]></description>
+			<Point>
+				<coordinates>-38.47581,-13.00497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Associação Bahiana de Reabilitação e Educação]]></description>
+			<Point>
+				<coordinates>-38.49013,-12.9714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Abrigo do Salvador]]></description>
+			<Point>
+				<coordinates>-38.47708,-12.97865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> Associação Cultural Linha Oito (ACL8)]]></description>
+			<Point>
+				<coordinates>-38.49437,-12.94654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> Associação das Comunidades Par de Mata Escura e Calabetão]]></description>
+			<Point>
+				<coordinates>-38.46266,-12.93513,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> Agente de Direito da Criança e do Adolescente do Estado da Bahia - ADCAEB]]></description>
+			<Point>
+				<coordinates>-38.51135,-12.96917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Associação Bahaiana da Igreja Adventista do Sétimo Dia]]></description>
+			<Point>
+				<coordinates>-38.50603,-12.98074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> Associação Educacional Sons do Silêncio]]></description>
+			<Point>
+				<coordinates>-38.4331,-12.96757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> Abrigo São Gabriel]]></description>
+			<Point>
+				<coordinates>-38.51603,-12.93018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> Associação de Amigos do Autista - AMA BA]]></description>
+			<Point>
+				<coordinates>-38.40528,-12.96461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> Associação de Pais Amigos e Pessoas com Deficiência de Funcionários do Banco do Brasil e da Comunidade]]></description>
+			<Point>
+				<coordinates>-38.51598,-12.98384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> Associação de Pais e Amigos de Deficientes Auditivos]]></description>
+			<Point>
+				<coordinates>-38.49051,-13.01013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> Associação de Pais e Amigos dos Excepcionais de Salvador - APAE]]></description>
+			<Point>
+				<coordinates>-38.45974,-13.00147,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Valéria</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> X - Valéria<br/>
+<b>Unidade Sociassistencial:</b> CRAS Valéria<br/>
+<b>Entidade:</b> Associação Arte sem Fronteiras]]></description>
+			<Point>
+				<coordinates>-38.44021,-12.85519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOCIACAO DE REMO SALVADOR]]></description>
+			<Point>
+				<coordinates>-38.45588,-12.98008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOCIACAO BAIANA DOS HEMOFILICOS]]></description>
+			<Point>
+				<coordinates>-38.50853,-12.97925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> ASSOCIACAO OBRAS SOCIAIS IRMA DULCE]]></description>
+			<Point>
+				<coordinates>-38.50748,-12.9306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ACAO SOCIAL ARQUIDIOCESANA]]></description>
+			<Point>
+				<coordinates>-38.51598,-12.99194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> ASSOCIACAO SILVANO ALVES DE ARAUJO-ASAA]]></description>
+			<Point>
+				<coordinates>-38.36988,-12.91689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> ABRIGO SAO FRANCISCO DE ASSIS]]></description>
+			<Point>
+				<coordinates>-38.50818,-12.9226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> ASSOCIACAO PLENO CIDADAO - ASPEC]]></description>
+			<Point>
+				<coordinates>-38.44867,-12.98654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> ASSOCIACAO BENEFICENTE METROPOLITANA]]></description>
+			<Point>
+				<coordinates>-38.43735,-12.96714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> ASSOCIACAO PERO VAZ VELHA]]></description>
+			<Point>
+				<coordinates>-38.48926,-12.95282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Suburbio</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> II - Subúrbio / Ilhas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Suburbio<br/>
+<b>Entidade:</b> ASSOCIACAO BOM SAMARITANO]]></description>
+			<Point>
+				<coordinates>-38.48851,-12.89502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> CAPEMISA - INSTITUTO DE ACAO SOCIAL]]></description>
+			<Point>
+				<coordinates>-38.41333,-12.93978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> CARITAS BRASILEIRA]]></description>
+			<Point>
+				<coordinates>-38.4873,-12.98944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Suburbio</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> II - Subúrbio / Ilhas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Suburbio<br/>
+<b>Entidade:</b> LAR FABIANO DE CRISTO]]></description>
+			<Point>
+				<coordinates>-38.47793,-12.86394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> CAASAH CASA DE APOIO E ASSIS AO PORTADOR DO VIROS HIV A]]></description>
+			<Point>
+				<coordinates>-38.51436,-12.92951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> NUCLEO ESPIRITA CAMPO DA PAZ]]></description>
+			<Point>
+				<coordinates>-38.41729,-12.91818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> CENTRO COMUNITARIO UNIDOS PELO SOCIAL]]></description>
+			<Point>
+				<coordinates>-38.48947,-12.98195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cajazeiras</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> III - Cajazeiras<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cajazeiras<br/>
+<b>Entidade:</b> INSTITUTO DE DESENVOLVIMENTO INCLUSAO E ASSISTENCIA SOCIAL - IDEIAS]]></description>
+			<Point>
+				<coordinates>-38.43533,-12.89389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Pau da Lima</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IX - Pau da Lima<br/>
+<b>Unidade Sociassistencial:</b> CRAS Pau da Lima<br/>
+<b>Entidade:</b> CENTRO ESPIRITA CAMINHO DA REDENCAO]]></description>
+			<Point>
+				<coordinates>-38.44326,-12.91675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> CENTRO COMUNITARIO BATISTA CLERISTON ANDRADE]]></description>
+			<Point>
+				<coordinates>-38.50352,-13.00106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Suburbio</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> II - Subúrbio / Ilhas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Suburbio<br/>
+<b>Entidade:</b> CENTRO COMUNITARIO DA IGREJA BATISTA CENTRAL DE PARIPE]]></description>
+			<Point>
+				<coordinates>-38.46886,-12.8387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cabula</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VIII - Cabula / Tancredo Neves<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cabula<br/>
+<b>Entidade:</b> CENTRO DE INTEGRACAO FAMILIAR- CEIFAR]]></description>
+			<Point>
+				<coordinates>-38.44972,-12.94232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> LEGIAO DA BOA VONTADE]]></description>
+			<Point>
+				<coordinates>-38.4948,-12.91668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOCIACAO HUMANO PROGRESSO BRASIL]]></description>
+			<Point>
+				<coordinates>-38.45335,-12.98049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> COORDENADORIA ECUMENICA DE SERVICO]]></description>
+			<Point>
+				<coordinates>-38.52546,-12.9975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> CENTRO ESPIRITA CAVALEIROS DA LUZ]]></description>
+			<Point>
+				<coordinates>-38.41311,-12.96959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> CIDE- CAPACITACAO, INSERCAO E DESENVOLVIMENTO]]></description>
+			<Point>
+				<coordinates>-38.45785,-12.97511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> CENTRO DE INTEGRACAO EMPRESA ESCOLA CIEE]]></description>
+			<Point>
+				<coordinates>-38.45512,-12.98228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOC APOSENTADOS PENSIONISTAS INST CAIXAS PREVID BAHIA]]></description>
+			<Point>
+				<coordinates>-38.47821,-12.9836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Suburbio</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> II - Subúrbio / Ilhas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Suburbio<br/>
+<b>Entidade:</b> CONGREGACAO DAS MISSIONARIAS DA CARIDADE]]></description>
+			<Point>
+				<coordinates>-38.46187,-12.84829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOCIACAO MARIA EUFRASIA PELLETIER]]></description>
+			<Point>
+				<coordinates>-38.48677,-12.99458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> COMUNIDADE CIDADANIA E VIDA]]></description>
+			<Point>
+				<coordinates>-38.35901,-12.95216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> GRUPO BENEFICENTE RECREATIVO DA RUA SETE DE ABRIL E ADJACENCIAS]]></description>
+			<Point>
+				<coordinates>-38.49227,-12.94559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> ASSOCIACAO DE PAIS E AMIGOS DE CRIANCAS E ADOLESCENTES COM DISTURBIOS DE COMPORTAMENTO - EVOLUCAO]]></description>
+			<Point>
+				<coordinates>-38.4328,-12.96809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> ASSOCIACAO DAS IRMAS FRANCISCANAS HOSPITALEIRAS DA IMACULADA CONCEICAO-PROVINCIA DE SANTA CRUZ]]></description>
+			<Point>
+				<coordinates>-38.51467,-12.92763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> CENTRO DE INTEGRACAO EMPRESA ESCOLA CIEE]]></description>
+			<Point>
+				<coordinates>-38.50037,-12.974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOCIACAO DE ENSINO SOCIAL PROFISSIONALIZANTE]]></description>
+			<Point>
+				<coordinates>-38.50309,-13.00089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUICAO FAMILIA TELEMACO SOLIDARIEDADE]]></description>
+			<Point>
+				<coordinates>-38.50693,-12.97737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUTO HEBROM SIMAS]]></description>
+			<Point>
+				<coordinates>-38.49797,-12.99599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> HORA DA CRIANCA]]></description>
+			<Point>
+				<coordinates>-38.48608,-13.00589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> ASSOCIACAO HUMANA POVO PARA POVO BRASIL]]></description>
+			<Point>
+				<coordinates>-38.37762,-12.94917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUTO GUANABARA]]></description>
+			<Point>
+				<coordinates>-38.49607,-12.98229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUICAO ASSIST BENEFICENTE CONCEICAO MACEDO]]></description>
+			<Point>
+				<coordinates>-38.50698,-12.97745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUTO DE DESENVOLVIMENTO SOCIAL PELA MUSICA - IDSM]]></description>
+			<Point>
+				<coordinates>-38.49927,-12.96803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> INSTITUICAO LAR FONTE DA FRATERNIDADE E CENTRO DE HUMANIZACAO PARA PESSOAS COM DEFICIENCIA]]></description>
+			<Point>
+				<coordinates>-38.48318,-12.92777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> INSTITUTO CONVERGIR]]></description>
+			<Point>
+				<coordinates>-38.45051,-12.98447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUTO DE CEGOS DA BAHIA]]></description>
+			<Point>
+				<coordinates>-38.50175,-12.96088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cajazeiras</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> III - Cajazeiras<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cajazeiras<br/>
+<b>Entidade:</b> INSTITUTO BAIANO DA PAZ]]></description>
+			<Point>
+				<coordinates>-38.43103,-12.90135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUTO DE RESPONSABILIDADE E INVESTIMENTO SOCIAL - IRIS]]></description>
+			<Point>
+				<coordinates>-38.45847,-12.97659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> INSTITUTO DE GESTAO SALUS VITA]]></description>
+			<Point>
+				<coordinates>-38.49526,-13.00638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> INSTITUTO DE ORGANIZACAO NEUROLOGICA DA BAHIA - ION]]></description>
+			<Point>
+				<coordinates>-38.51841,-13.00552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ISBET-INSTITUTO BRASILEIRO PRO- EDUCACAO , TRABALHO E DESENVOLVIMENTO]]></description>
+			<Point>
+				<coordinates>-38.51527,-12.98573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Pau da Lima</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IX - Pau da Lima<br/>
+<b>Unidade Sociassistencial:</b> CRAS Pau da Lima<br/>
+<b>Entidade:</b> INSTITUTO SOCIAL DE PROTECAO E APOIO AS CRIANCAS E ADOLESCENTES - ISPACA]]></description>
+			<Point>
+				<coordinates>-38.4101,-12.91609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> CENTRO COMUNITARIO JOAO PAULO II]]></description>
+			<Point>
+				<coordinates>-38.37716,-12.93354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> VIDA VALORIZACAO INDIVIDUAL DO DEFICIENTE ANONIMO]]></description>
+			<Point>
+				<coordinates>-38.39854,-12.9185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> LAR DA CRIANCA]]></description>
+			<Point>
+				<coordinates>-38.48823,-12.96916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ORDEM TERCEIRA SECULAR DE SAO FRANCISCO]]></description>
+			<Point>
+				<coordinates>-38.50685,-12.97303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Suburbio</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> II - Subúrbio / Ilhas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Suburbio<br/>
+<b>Entidade:</b> ASSOCIACAO CLUBE DE MAES DO LAR PEROLAS DE CRISTO]]></description>
+			<Point>
+				<coordinates>-38.47827,-12.83298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Pau da Lima</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IX - Pau da Lima<br/>
+<b>Unidade Sociassistencial:</b> CRAS Pau da Lima<br/>
+<b>Entidade:</b> MANSAO DO CAMINHO]]></description>
+			<Point>
+				<coordinates>-38.44332,-12.91671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Pau da Lima</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IX - Pau da Lima<br/>
+<b>Unidade Sociassistencial:</b> CRAS Pau da Lima<br/>
+<b>Entidade:</b> MINISTERIO DE ADORACAO PROFETICA INTERNACIONAL - MAPI]]></description>
+			<Point>
+				<coordinates>-38.40693,-12.91759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> SANTA CASA DE MISERICORDIA DA BAHIA]]></description>
+			<Point>
+				<coordinates>-38.50844,-12.98099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> CONGREGACAO DAS MISSIONARIAS DA CARIDADE]]></description>
+			<Point>
+				<coordinates>-38.49216,-12.93155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> NAC BAHIA - NUCLEO DE ASSISTENCIA COMUNITARIA]]></description>
+			<Point>
+				<coordinates>-38.50355,-12.93831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> NUCLEO DE APOIO AO COMBATE DO CANCER INFANTIL (NACCI)]]></description>
+			<Point>
+				<coordinates>-38.50641,-12.97102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> NUCLEO ASSISTENCIAL PARA PESSOAS COM CANCER]]></description>
+			<Point>
+				<coordinates>-38.49921,-12.98958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> LEGIAO DA BOA VONTADE]]></description>
+			<Point>
+				<coordinates>-38.48369,-12.98421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> ORGANIZACAO DE AUXILIO FRATERNO]]></description>
+			<Point>
+				<coordinates>-38.49751,-12.95526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Itapuã</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IV - Itapuã / Ipitanga<br/>
+<b>Unidade Sociassistencial:</b> CRAS Itapuã<br/>
+<b>Entidade:</b> OBRAS SOCIAIS MISSIONARIOS DA COMPAIXAO DE NOSSA SENHORA DO MONTE CARMELO]]></description>
+			<Point>
+				<coordinates>-38.35889,-12.91326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> PARQUE SOCIAL - EMPREENDEDORISMO E DESENVOLVIMENTO SOCIAL]]></description>
+			<Point>
+				<coordinates>-38.47322,-12.98897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Barra</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VI - Barra / Pituba<br/>
+<b>Unidade Sociassistencial:</b> CRAS Barra<br/>
+<b>Entidade:</b> PROJETO SOCIAL PATRULHA DO BEM]]></description>
+			<Point>
+				<coordinates>-38.48723,-13.01287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> CENTRO PROJ AXE DE DEFESA E PROT A CRIANCA E AO ADOLESC]]></description>
+			<Point>
+				<coordinates>-38.5115,-12.96874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Pau da Lima</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> IX - Pau da Lima<br/>
+<b>Unidade Sociassistencial:</b> CRAS Pau da Lima<br/>
+<b>Entidade:</b> FENIX - CENTRO CULTURAL DE EDUCACAO E DESENVOLVIMENTO DAS COMUNIDADES]]></description>
+			<Point>
+				<coordinates>-38.43014,-12.93145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> REDE CIDADA]]></description>
+			<Point>
+				<coordinates>-38.51158,-12.96858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Liberdade</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> VII - Liberdade / São Caetano<br/>
+<b>Unidade Sociassistencial:</b> CRAS Liberdade<br/>
+<b>Entidade:</b> ASSOCIACAO SONS DO BEM]]></description>
+			<Point>
+				<coordinates>-38.48623,-12.96175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Cidade Baixa</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> V - Cidade Baixa<br/>
+<b>Unidade Sociassistencial:</b> CRAS Cidade Baixa<br/>
+<b>Entidade:</b> SOU SOLIDARIO]]></description>
+			<Point>
+				<coordinates>-38.50315,-12.96002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS Centro</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> I - Centro / Brotas<br/>
+<b>Unidade Sociassistencial:</b> CRAS Centro<br/>
+<b>Entidade:</b> ASSOCIACAO VIDA BRASIL]]></description>
+			<Point>
+				<coordinates>-38.51081,-12.97931,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Entidades/Projetos - Modalidades</name>
+		<Placemark>
+			<name>GRUPO DE APOIO À CRIANÇA COM CANCER - GACC</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Especial de Alta e Complexidade: Serviço de Acolhimento Institucional na Modalidade. Acolhimento Institucional Provisório de pessoas e seus acompanhantes que estejam em trânsito sem condições de autossustento durante tratamento fora do local de residência.]]></description>
+			<Point>
+				<coordinates>-38.4531,-12.98759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CENTRO SOCIAL DOM LUCAS MOREIRA NEVES - CSDL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Programa de Defesa e Garantia de Direitos.]]></description>
+			<Point>
+				<coordinates>-38.48584,-12.93756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO DE ORGANIZAÇÃO NEUROLOGICA - ION</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Especial de Média Complexidade: Serviço de Proteção Social Especial Para Pessoas Com Deficiencia Idosas e Suas Famílias; Ações de Habilitação e Reabilitação da Pessoa Com Deficiencia e a Promoção de Sua integração à Vida Comunitária.]]></description>
+			<Point>
+				<coordinates>-38.51833,-13.00538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NUCLEO DE APOIO DE COMBATE AO CANCER - NACCI</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Especial de Alta Complexidade: Serviço de Acolhimento Institucional na Modalidade. Acolhimento Institucional Privisório de Pessoas e Seus Acompanhantes que Estejam em Transito sem Condições de Alto Sustento Durante o Tratamento Fora do Local de Residência]]></description>
+			<Point>
+				<coordinates>-38.50649,-12.97103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AÇÃO SOCIAL DAS ANCILAS DO MENINO JESUS - ASAMEJ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.48207,-12.99083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CENTRO ESPIRITA CAVALEIROS DA LUZ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Básica: Serviço de Convivência e Fortalecimento de Vínculos]]></description>
+			<Point>
+				<coordinates>-38.41312,-12.96972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO DE AMIGOS DO AUTISTA DA BAHIA - AMA-BA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Especial de Média Complexidade: Serviço de Proteção Social Especial Para Pessoas Com Deficiencia; Programa de Habilitação e Reabilitação da Pessoa com Deficiência e a Promoção de Sua Integração à Vida Comunitária]]></description>
+			<Point>
+				<coordinates>-38.40481,-12.96379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO REINTEGRANDO CRIANÇAS E ADOLESCENTES EM RISCO - RECRIAR</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Programa de Defesa e Garantia de Direitos.]]></description>
+			<Point>
+				<coordinates>-38.50134,-12.91961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CASA PIA E COLEGIO DOS ORFÃOS DE SÃO JOAQUIM</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.50497,-12.96073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO DAS IRMÃS DE CARIDADE DA SANTA CRUZ - SINCRUZ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.49949,-13.00425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FUNDAÇÃO JOSÉ SILVEIRA - PROGRAMA SAÚDE E CIDADANIA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.51577,-12.99722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIALÇAO CULTURAL SOMOS CRIANÇAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.51614,-13.00275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO CRIANÇA E FAMÍLIA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.47096,-12.88056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEDERAÇÃO ESPÍRITA DO ESTADO DA BAHIA - FEEB</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.46858,-12.98343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SERVIÇO SOCIAL DA INDÚSTRIA - SESI</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Programa de Defesa e Garantia de Direitos.]]></description>
+			<Point>
+				<coordinates>-38.44881,-12.98301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO NACIONAL DE AMPARO À PESQUISA, TECNOLOGIA, INOVAÇÃO E SAÚDE - INTS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.51421,-12.97398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMAR - CENTRO DE ESTUDOS E TERAPIAS ESPÍRITAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.48066,-12.93053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CENTRO AFRO DE PROMOÇÃO E DEFESA DA VIDA PADRE EZEQUIEL RAMIN - CAPDEVER</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.44223,-12.93729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FUNDAÇÃO CÉSAR MONTES - FUNDACEM</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.49456,-12.97097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO CULTURAL ESPERANÇA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.46746,-12.84205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOCIEDADE HÓLON</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.44423,-12.92153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GRUPO SILOÉ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.48659,-12.92607,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO OMBRO AMIGO - NAC (NUCLEO DE APOIO À COMUNIDADE)</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.48315,-12.92786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PLAN INTERNACIONAL BRASIL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Programa de Assessoramento]]></description>
+			<Point>
+				<coordinates>-38.50223,-12.97338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO AÇÃO SOCIAL MOSTEIRO DE SALVADOR</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.4833,-12.88457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO BENEFICIENTE CULTURAL UGO MEREGALLI E BIBLIOTECA COMUNITARIA SETE DE ABRIL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.42535,-12.90944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO SEMEADORES DA PAZ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.50175,-12.9943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOCIEDADE RECREATIVA CULTURAL E DESPORTIVA E COMUNITÁRIA DE ITACARANHA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.4779,-12.88723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO CONEXÃO VIDA DOM LUCAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Serviço de Assessoramento]]></description>
+			<Point>
+				<coordinates>-38.41918,-12.9306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO DAS SENHORAS DE CARIDADE - CASA DA PROVIDÊNCIA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.50554,-12.9706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO AMOR AO PRÓXIMO</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Básica: Serviço de Convivência e Fortalecimento de Vínculos]]></description>
+			<Point>
+				<coordinates>-38.37489,-12.83284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO ABRAÇO ÀS FAMÍLIAS COM CRIANÇAS COM SÍNDROME CONGÊNITA DO ZIKA VIRUS E OUTRAS MALFORMAÇÕES NO SISTEMA NERVOSO CENTRAL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Especial de Média Complexidade: Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas famílias]]></description>
+			<Point>
+				<coordinates>-38.36944,-12.9178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REDE NACIONAL DE APRENDIZAGEM, PROMOÇÃO SOCIAL E INTEGRAÇÃO - RENAPSI</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção social básica: Programa de Promoção de Integração no Mundo do Trabalho.]]></description>
+			<Point>
+				<coordinates>-38.51152,-12.96924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NUCLEO DE ATENDIMENTO À CRIANÇA COM PARALISIA CEREBRAL - NACPC</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Programa de Habilitação e Reabilitação da pessoa com deficiência e a promoção de sua integração à vida comunitária.]]></description>
+			<Point>
+				<coordinates>-38.50162,-13.00806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO IGOR ARCANJO</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.45524,-12.98219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OBRA KOLPING DO BRASIL - COMUNIDADE KOLPING DE CAJAZEIRAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.39942,-12.90476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEDERAÇÃO DAS ASSICIAÇÕES DE MORADIA POPULAR DE SALVADOR - FAMPS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.48449,-12.90412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CONGREGAÇÃO ESCRAVAS DA IMACULADA MENINA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.47276,-12.87479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO INTERNACIONAL DE CAPOEIRA OS BAMBAS DO SOL NASCENTE</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.49226,-12.93357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REDE CIDADÃ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Básica: Programa de Integração ao Mundo do Trabalho]]></description>
+			<Point>
+				<coordinates>-38.51166,-12.96944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GRUPO DE ACOLHIMENTO AOS PRESOS E EGRESSOS DO NORDESTE - GAPENE</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos]]></description>
+			<Point>
+				<coordinates>-38.43551,-12.96637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROJETO CAMINHO DA PAZ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de Defesa e Garantia de Direitos Sociais]]></description>
+			<Point>
+				<coordinates>-38.37137,-12.92774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO VOLUNTÁRIOS PARA O SERVIÇO INTERNACIONAL - BRASIL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social básica: programa de promoção da integração ao mercado de trabalho; projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.45348,-12.98049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORDEM TERCEIRA SECULAR DE SÃO FRANCISCO DA BAHIA - LAR FRANCISCANO SANTA ISABEL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção especial de alta compexidade: serviço de acolhimento institucional na modalidade abrigo institucional]]></description>
+			<Point>
+				<coordinates>-38.50691,-12.97304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FUNCAÇÃO BAHIANA PARA O DESENVOLVIMENTO DAS CIENCIAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Básica: Serviço de Convivência e Fortalecimento de Vínculos]]></description>
+			<Point>
+				<coordinates>-38.48866,-12.99074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CONGREGAÇÃO DAS MISSIONÁRIAS DA CARIDADE - FAZENDA COUTOS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção social básica: SCFV; Proteção social especial de alta complexidade: acolhimento institucional de longa permanencia]]></description>
+			<Point>
+				<coordinates>-38.46267,-12.84742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO CRISTÃ DE AMPARO SOCIAL - ACAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.44041,-12.96021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO BRASILEIRA DE EDUCAÇÃO FAMILIAR E SOCIAL - ABEFS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.50832,-13.00837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO NOSSA SENHORA DA SALETTE</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.51528,-12.98572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO BRASILEIRO PRO-EDUCAÇÃO, TRABALHO E DESENVOLVIMENTO - ISBET</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Básica: Programa de Integração ao Mundo do Trabalho]]></description>
+			<Point>
+				<coordinates>-38.51309,-12.98516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PROJETO TANGARÁ</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.45762,-12.84781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GRUPO DE APOIO A POPULAÇÃO E INSTITUIÇÕES CARENTES - GAPIC</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Proteção Social Básica: Serviço de Convivência e Fortalecimento de Vínculos]]></description>
+			<Point>
+				<coordinates>-38.41944,-12.97162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO CRESCER</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.43059,-12.97824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO BAIANA DE CEGOS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.51182,-12.98552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO CENTRAL DE CIDADANIA - ISEC</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.46047,-12.96578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO ME ABRACE</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.48187,-12.89218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSTITUTO CULTURAL DE EDUCAÇÃO TÉCNICA DA BANIA - ICETBA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.35732,-12.9293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AVANTE EDUCAÇÃO E MOBILIZAÇÃO SOCIAL</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.49472,-13.0091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSOCIAÇÃO DE PESQUISA E ENSINO SOLIDÁRIO - APES</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.51801,-12.99857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CENTRO DE REFERENCIA INTEGRAL DE ADOLESCENTES - CRIA</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.50855,-12.9731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADAPTA - ASSOCIAÇÃO DOS MORADORES DE PIATÃ E ADJACENCIAS</name>
+			<description><![CDATA[<b>Modalidade de Inscrição:</b> Projeto de defesa e garantia de direitos]]></description>
+			<Point>
+				<coordinates>-38.38076,-12.93834,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>CRAS Salvador</name>
+		<Placemark>
+			<name>CRAS BROTAS</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CENTRO/BROTAS]]></description>
+			<Point>
+				<coordinates>-38.4955,-12.9772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS CENTRO HISTÓRICO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CENTRO/BROTAS]]></description>
+			<Point>
+				<coordinates>-38.51197,-12.97229,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS FEDERAÇÃO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CENTRO/BROTAS]]></description>
+			<Point>
+				<coordinates>-38.51176716500622,-12.99957682537459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS PARIPE</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> SUBÚRBIO/ILHAS]]></description>
+			<Point>
+				<coordinates>-38.47504,-12.82993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS LAGOA DA PAIXÃO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> SUBÚRBIO/ILHAS]]></description>
+			<Point>
+				<coordinates>-38.45465196316181,-12.84547972066995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS ILHA DE MARÉ</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> SUBÚRBIO/ILHAS]]></description>
+			<Point>
+				<coordinates>-38.53205513247934,-12.79058662322841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS ILHA DE BOM JESUS</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> SUBÚRBIO/ILHAS]]></description>
+			<Point>
+				<coordinates>-38.63876,-12.86051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS PARQUE SÃO BARTOLOMEU / RIO SENA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> SUBÚRBIO/ILHAS]]></description>
+			<Point>
+				<coordinates>-38.47194823124725,-12.87686247931512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS CAJAZEIRAS</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CAJAZEIRAS]]></description>
+			<Point>
+				<coordinates>-38.41325250548937,-12.89939934696289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS CASTELO BRANCO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CAJAZEIRAS]]></description>
+			<Point>
+				<coordinates>-38.43065904020134,-12.9010328504839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS ITAPUÃ</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> ITAPUÃ/IPITANGA]]></description>
+			<Point>
+				<coordinates>-38.3660972248043,-12.94740441686028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS NOVA ESPERANÇA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> ITAPUÃ/IPITANGA]]></description>
+			<Point>
+				<coordinates>-38.3663118015141,-12.947446241127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS PARQUE SÃO CRISTÓVÃO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> ITAPUÃ/IPITANGA]]></description>
+			<Point>
+				<coordinates>-38.3654727938444,-12.90239824901466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS SÃO CRISTÓVÃO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> ITAPUÃ/IPITANGA]]></description>
+			<Point>
+				<coordinates>-38.35060646315991,-12.9181724974389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS BAIRRO DA PAZ</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> ITAPUÃ/IPITANGA]]></description>
+			<Point>
+				<coordinates>-38.38023085236817,-12.9337118311684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS BOCA DO RIO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> ITAPUÃ/IPITANGA]]></description>
+			<Point>
+				<coordinates>-38.42597713247446,-12.97815627283294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS ITAPAGIPE</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CIDADE BAIXA]]></description>
+			<Point>
+				<coordinates>-38.50557895151434,-12.93573126678231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS LOBATO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CIDADE BAIXA]]></description>
+			<Point>
+				<coordinates>-38.48840262055357,-12.92424176753952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS NORDESTE / LUCAIA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Barra / Pituba]]></description>
+			<Point>
+				<coordinates>-38.49164131898027,-13.00750438424526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS LIBERDADE</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Liberdade / São Caetano]]></description>
+			<Point>
+				<coordinates>-38.49857930179134,-12.95069534301479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS FAZENDA GRANDE DO RETIRO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Liberdade / São Caetano]]></description>
+			<Point>
+				<coordinates>-38.48163205151443,-12.93740143059035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS CALABETÃO</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Liberdade / São Caetano]]></description>
+			<Point>
+				<coordinates>-38.46828763247559,-12.93178301272999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS TANCREDO NEVES</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Cabula / Tancredo Neves]]></description>
+			<Point>
+				<coordinates>-38.44710662082995,-12.95394440422336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS MATA ESCURA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Cabula / Tancredo Neves]]></description>
+			<Point>
+				<coordinates>-38.45962207850143,-12.93630323069606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS ENGOMADEIRA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Cabula / Tancredo Neves]]></description>
+			<Point>
+				<coordinates>-38.45696731589558,-12.94926788372138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS PAU DA LIMA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Pau da Lima]]></description>
+			<Point>
+				<coordinates>-38.44959628645035,-12.91232609996422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRAS VALÉRIA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Valéria]]></description>
+			<Point>
+				<coordinates>-38.43271786131287,-12.86640495785301,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>CREAS Salvador</name>
+		<Placemark>
+			<name>CREAS BOCA DA MATA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CAJAZEIRAS]]></description>
+			<Point>
+				<coordinates>-38.38385,-12.9026,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREAS BONOCÔ</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CABULA / TANCREDO NEVES]]></description>
+			<Point>
+				<coordinates>-38.48765,-12.98363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREAS CABULA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> CABULA / TANCREDO NEVES]]></description>
+			<Point>
+				<coordinates>-38.46938,-12.96153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREAS CURUZU</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> LIBERDADE / SÃO CAETANO]]></description>
+			<Point>
+				<coordinates>-38.48969,-12.94807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREAS FAZENDA COUTOS</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> LIBERDADE / SÃO CAETANO]]></description>
+			<Point>
+				<coordinates>-38.45779,-12.8478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREAS GARCIA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Centro /Brotas]]></description>
+			<Point>
+				<coordinates>-38.51405,-12.99078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CREAS ITACARANHA</name>
+			<description><![CDATA[<b>Prefeitura-Bairro:</b> Centro /Brotas]]></description>
+			<Point>
+				<coordinates>-38.47664,-12.87705,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Folder id="kml_ft_BAIRRO_-_X_-__VALERIA_">
+		<name>BAIRRO - X - (VALERIA)</name>
+		<Placemark id="kml_1">
+			<name>kml_1</name>
+			<Style>
+				<LineStyle>
+					<color>ffa5a500</color>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					-38.4539803831298,-12.8576529439531,0 -38.4542796810347,-12.8570302697648,0 -38.4545980494737,-12.8564525758147,0 -38.454908496855,-12.856000193469,0 -38.4552083851529,-12.8555718417311,0 -38.4555685302758,-12.855064493041,0 -38.4559943322911,-12.854409526002,0 -38.4559951644412,-12.8544082617816,0 -38.4562301575479,-12.8539853805076,0 -38.4564072701518,-12.8535644588901,0 -38.4564941759047,-12.8532214772676,0 -38.4565731340745,-12.8527600228371,0 -38.4565937630069,-12.8523381440512,0 -38.4565813711124,-12.8520151214861,0 -38.4565517950018,-12.8517977697821,0 -38.4565276632094,-12.8516200353495,0 -38.4563767312523,-12.8508383632713,0 -38.4562584283148,-12.8502259432409,0 -38.4559664313864,-12.8487043048612,0 -38.455920065536,-12.8484096956007,0 -38.4558804347025,-12.8478546771865,0 -38.4558811223198,-12.8474923468819,0 -38.4559517121446,-12.8471077360648,0 -38.4561087433585,-12.8465520398618,0 -38.4562091052705,-12.846207277448,0 -38.4563143870833,-12.8458457965902,0 -38.455154934932,-12.8456945548434,0 -38.4547579179356,-12.8456569280999,0 -38.4545082277806,-12.8456331704891,0 -38.4541935256194,-12.8456290805539,0 -38.453730926479,-12.8456618472177,0 -38.453440394275,-12.8456887318853,0 -38.4528363488597,-12.8458434567197,0 -38.4526950885295,-12.8458795131051,0 -38.4521066349824,-12.8460682683828,0 -38.4516777572468,-12.8461890849095,0 -38.4512975963711,-12.8462826942646,0 -38.4509699562187,-12.8463374398416,0 -38.4504985719603,-12.8463834747983,0 -38.450493566688,-12.8463967567456,0 -38.4504985719603,-12.8463834747983,0 -38.4504853879261,-12.8460044776077,0 -38.4504843040791,-12.8459519386317,0 -38.4504835666416,-12.8459520275134,0 -38.4504779279175,-12.8457479273307,0 -38.4503179565052,-12.8458278896455,0 -38.4474841973387,-12.8426120512237,0 -38.4473915980338,-12.8424782993071,0 -38.4473298682779,-12.8423033786823,0 -38.4473503624124,-12.8421182321955,0 -38.4473401019867,-12.841963855801,0 -38.4473195650205,-12.8417890218239,0 -38.4472269413166,-12.8416244350121,0 -38.4470006904271,-12.8413774613915,0 -38.4466200555341,-12.8410585461723,0 -38.4463936682729,-12.8408322790083,0 -38.4461879075922,-12.8407397027037,0 -38.4460438243991,-12.8407191438484,0 -38.4458689866928,-12.8407293548421,0 -38.4457043737724,-12.8406573913315,0 -38.4454677854477,-12.840502989441,0 -38.4452311784703,-12.8404412725148,0 -38.4448504885539,-12.840359086306,0 -38.4444904451869,-12.8403590487284,0 -38.4442641164322,-12.8403590222387,0 -38.4440378068696,-12.8402664008282,0 -38.4436262934567,-12.8402046740249,0 -38.4432764988156,-12.8401120617371,0 -38.4430295231619,-12.8399886513385,0 -38.4428032625054,-12.8399578793965,0 -38.4424535154661,-12.8398857925117,0 -38.4422065660727,-12.8398343593628,0 -38.4419493423574,-12.8398035209624,0 -38.4417024627703,-12.8397623054687,0 -38.4413115692445,-12.8396696937091,0 -38.4410234972696,-12.8396285708472,0 -38.4408382480254,-12.8396799899548,0 -38.44070458164,-12.8397417367033,0 -38.4405605280459,-12.8399166727785,0 -38.440395924368,-12.8400914745735,0 -38.4402518475499,-12.840276718805,0 -38.439994703807,-12.8406676186114,0 -38.4397375571926,-12.8409762318116,0 -38.4394494907534,-12.8412231996716,0 -38.4393671766062,-12.8413157995778,0 -38.4390996836009,-12.8415935552498,0 -38.4389453750338,-12.8417376336827,0 -38.4386984976091,-12.8418609878972,0 -38.4382560034819,-12.8421799639492,0 -38.4380399511622,-12.8423239097781,0 -38.4378445871528,-12.8424886068941,0 -38.4375977089574,-12.8426531935742,0 -38.4375153702887,-12.8427148676243,0 -38.4372272761859,-12.8429309980508,0 -38.4370831944468,-12.8430338636561,0 -38.4369700759353,-12.8430955619893,0 -38.4368363371041,-12.8431058549747,0 -38.4366717494731,-12.8431058637766,0 -38.4364145472768,-12.8431469977691,0 -38.4361984467271,-12.8432704155462,0 -38.43602363177,-12.8434762080205,0 -38.4358075320451,-12.8437642883583,0 -38.4357355610875,-12.8439700302083,0 -38.43567391163,-12.8442169373226,0 -38.4355915497844,-12.8444124388316,0 -38.4355298301534,-12.8445255175895,0 -38.4354577886598,-12.8445975214553,0 -38.4353446000168,-12.8446901440406,0 -38.4352315270096,-12.8448547446621,0 -38.4350875134879,-12.8451324900554,0 -38.4350462751136,-12.845358914522,0 -38.4350257488493,-12.845595511064,0 -38.4349536840858,-12.8457189662088,0 -38.4348405408258,-12.8457909718739,0 -38.4347068465904,-12.8458218805742,0 -38.4345216376189,-12.8458115351917,0 -38.4341615639421,-12.8457806483654,0 -38.4339661485849,-12.8458012961729,0 -38.4335648587236,-12.8458629142789,0 -38.4333693741383,-12.8459555393017,0 -38.4329681062108,-12.846171601371,0 -38.4327830346213,-12.8463464441782,0 -38.4326287192698,-12.8465728047577,0 -38.4325361252247,-12.8467271399555,0 -38.4324743346193,-12.8467888567037,0 -38.4323611902076,-12.8468608612454,0 -38.4321863013428,-12.8469329130931,0 -38.4319188188551,-12.8470357800989,0 -38.4315895917255,-12.8471386940377,0 -38.4312604341104,-12.8472105921508,0 -38.430931206964,-12.8472723621662,0 -38.4305607635362,-12.8473032076937,0 -38.4302522491721,-12.847292953563,0 -38.4298921046426,-12.8472928953655,0 -38.4296452187372,-12.8473340448983,0 -38.429418950903,-12.8474678334997,0 -38.4291205472853,-12.8476324806305,0 -38.4290176766457,-12.8477250323273,0 -38.4285753164302,-12.8483011580524,0 -38.4284004221175,-12.8485377795034,0 -38.4282255283695,-12.848733257767,0 -38.4281123075984,-12.8490418101697,0 -38.4280403489031,-12.8493608511823,0 -38.428071210034,-12.849854635018,0 -38.4281123909043,-12.8504307274127,0 -38.4282049975398,-12.8509244648454,0 -38.4283797852288,-12.8514285991319,0 -38.4286885007163,-12.851963588208,0 -38.4288222153402,-12.8522516092318,0 -38.4288119582678,-12.8524677009438,0 -38.4287810571133,-12.8527248907768,0 -38.428698728478,-12.853146631282,0 -38.4286576155521,-12.8536404391683,0 -38.4286537649229,-12.8540392018072,0 -38.4285931086365,-12.8542909013473,0 -38.4285930927407,-12.8545424616119,0 -38.4286191319334,-12.8548461629671,0 -38.4287579223695,-12.8552539167887,0 -38.4289054016762,-12.8556096050759,0 -38.4291049983254,-12.8560259909154,0 -38.4291743451402,-12.8562515694334,0 -38.4292090598324,-12.8564684823087,0 -38.429254945838,-12.8570028990358,0 -38.4293321699363,-12.8575356658315,0 -38.429293555114,-12.8578212320625,0 -38.429224114028,-12.8580450618918,0 -38.4291622895256,-12.8581609417148,0 -38.428992488825,-12.8582613048824,0 -38.4288766537307,-12.8583385463669,0 -38.4287144448367,-12.8584234633231,0 -38.4285678409296,-12.8584543404654,0 -38.428413416043,-12.8584389032809,0 -38.4281586419086,-12.858377130981,0 -38.4278960820795,-12.8582535817172,0 -38.4275949774707,-12.8580992038864,0 -38.4271395713951,-12.8578753143904,0 -38.4268692316169,-12.8577285985518,0 -38.4265295836775,-12.857543300703,0 -38.4263983790906,-12.8574893019638,0 -38.426135808097,-12.8574120481712,0 -38.4258346751041,-12.8573116515812,0 -38.4256108112065,-12.8572344819621,0 -38.425425522897,-12.857134067177,0 -38.425178483437,-12.8569951771545,0 -38.425031796781,-12.8569411438405,0 -38.4247152568327,-12.8568483983026,0 -38.4244449982867,-12.8567480678416,0 -38.4242596931038,-12.8566554287054,0 -38.4239894267015,-12.8564778755203,0 -38.4237578892856,-12.856331151331,0 -38.4235493430025,-12.8562462371608,0 -38.4233023881692,-12.8561922539253,0 -38.4230784557093,-12.8561459167022,0 -38.4229317917721,-12.8561227169406,0 -38.4227464033683,-12.8561072988282,0 -38.4226151946106,-12.8561768176547,0 -38.4224839979015,-12.8563619889423,0 -38.422352669192,-12.8565241921271,0 -38.4221827828632,-12.8567016824519,0 -38.42183540887,-12.8569951575683,0 -38.4215651819089,-12.8572035322789,0 -38.4212794778816,-12.8572885340346,0 -38.4211389686186,-12.857314085435,0 -38.4208549075323,-12.8573657238365,0 -38.4207313682681,-12.857466093221,0 -38.4206734847871,-12.8576300852333,0 -38.4206565120508,-12.8577573649326,0 -38.4206565978001,-12.857961090676,0 -38.4206989697081,-12.8582919556661,0 -38.4207328393423,-12.8585125748721,0 -38.4206904928578,-12.8587332066637,0 -38.4205971287716,-12.8589368164816,0 -38.4205038176886,-12.8591574261075,0 -38.4203680206773,-12.8593780322617,0 -38.4201304679705,-12.8596835929744,0 -38.4199437005666,-12.8599465855485,0 -38.4198309562887,-12.8601612743492,0 -38.4197630428632,-12.8603580678458,0 -38.419627316103,-12.860507419515,0 -38.4195118374998,-12.8605482165752,0 -38.4193557319049,-12.8605821418655,0 -38.419179244736,-12.8605821129085,0 -38.4189755997221,-12.8606093317631,0 -38.4187787262096,-12.8606976017123,0 -38.4186091011271,-12.8607993146558,0 -38.4183918441477,-12.8608944113601,0 -38.4181543135809,-12.8609486816605,0 -38.4179574273477,-12.8609622606631,0 -38.4177402014827,-12.8610437028466,0 -38.4175568434945,-12.8611455654494,0 -38.4173444470465,-12.8613706114115,0 -38.4171706916792,-12.861584349602,0 -38.4169302412012,-12.861905001502,0 -38.4167507578538,-12.862164390785,0 -38.416771665117,-12.8622898554102,0 -38.416782098107,-12.8624413388696,0 -38.4167873294502,-12.8626503204499,0 -38.4167768975811,-12.8628175817226,0 -38.4167820895294,-12.8629638089301,0 -38.4168134354654,-12.8630787171447,0 -38.416886553503,-12.8633034025709,0 -38.4169231085603,-12.8633975248255,0 -38.4170014922736,-12.8636168869092,0 -38.4170746865949,-12.8638885025293,0 -38.4171255136371,-12.8640681976096,0 -38.4171546514402,-12.8643013755111,0 -38.4171837921147,-12.8645732548984,0 -38.4171935237863,-12.8647092742619,0 -38.4171255158417,-12.8648257701297,0 -38.4170284116886,-12.865010381019,0 -38.4169700603698,-12.8651755464254,0 -38.4169312749447,-12.8654085733276,0 -38.416892414491,-12.8655543408731,0 -38.4168438073962,-12.8656903209435,0 -38.4167661667209,-12.8657874445338,0 -38.4166689674272,-12.8659331727141,0 -38.4165524163158,-12.8661177401243,0 -38.4164164662761,-12.8663216150432,0 -38.4162902375655,-12.8665062512048,0 -38.4161153741018,-12.8667587778622,0 -38.4159599766995,-12.8669627900531,0 -38.4157656843734,-12.8671278331711,0 -38.4155325910244,-12.8672929705034,0 -38.4152800058635,-12.8674775957318,0 -38.4150372370901,-12.8676815029044,0 -38.4147167109709,-12.8679922982692,0 -38.4142698546876,-12.868371171552,0 -38.4141241958575,-12.8684682327412,0 -38.4139590639127,-12.868497341932,0 -38.4137064915139,-12.8685167610019,0 -38.4133859457147,-12.8684779755918,0 -38.413201436816,-12.8685168067368,0 -38.4129099993598,-12.868643109577,0 -38.4127706963618,-12.8687017540424,0 -38.4123563849271,-12.8688761578333,0 -38.4119775305035,-12.8690218856566,0 -38.4118027465453,-12.869119061028,0 -38.4115308044116,-12.8693424308661,0 -38.4112490711897,-12.8696144264753,0 -38.4110450964746,-12.8697795345338,0 -38.4108897343105,-12.8698474555382,0 -38.4107925950422,-12.8698863908029,0 -38.4106954317802,-12.8698961190575,0 -38.4105496998422,-12.8699446203611,0 -38.4103554213185,-12.8700224001695,0 -38.40985034645,-12.8701875532911,0 -38.409500725215,-12.8702457224446,0 -38.4093646938331,-12.8703234518306,0 -38.4091801864892,-12.8704789268572,0 -38.4090538560316,-12.8705857944185,0 -38.4088111033383,-12.8708188119692,0 -38.4086459735819,-12.8710034467645,0 -38.4085682135075,-12.8711101523516,0 -38.4085391166044,-12.8712559403891,0 -38.4085391199096,-12.8713724967472,0 -38.4084619278729,-12.8715120274337,0 -38.4083885222592,-12.871530308252,0 -38.4083151486508,-12.8715349351199,0 -38.4082371947645,-12.8715669500546,0 -38.408150014752,-12.871681681957,0 -38.4080398966726,-12.871791750414,0 -38.4079620129864,-12.871833079076,0 -38.407838193175,-12.8718514267202,0 -38.407741866047,-12.8718972348438,0 -38.4076455554819,-12.8719752338544,0 -38.4074619664579,-12.8721311617529,0 -38.4071914192562,-12.8724246987909,0 -38.4070262911715,-12.8726861022822,0 -38.4069849603272,-12.872860436338,0 -38.40688867483,-12.8732411740449,0 -38.4068199063158,-12.873442934813,0 -38.4067327789992,-12.8735346986448,0 -38.4067290002552,-12.873534690092,0 -38.4069317521531,-12.873735437678,0 -38.4070213189689,-12.8738213621012,0 -38.4079178069145,-12.8738614571621,0 -38.4083822622214,-12.8742001485225,0 -38.4088066389687,-12.8751236100749,0 -38.4089023569784,-12.8756135614571,0 -38.4090279571453,-12.8757802245664,0 -38.4093476068885,-12.8758903580262,0 -38.4094833517726,-12.8765268860486,0 -38.4094703205907,-12.8766208974713,0 -38.4094744547886,-12.8766659378567,0 -38.4094908947364,-12.8767299949768,0 -38.4095068223406,-12.8767766895656,0 -38.4095508143564,-12.8768431597847,0 -38.4095779370019,-12.8768715235555,0 -38.4096061770717,-12.8768950069542,0 -38.4096298334084,-12.8769079908587,0 -38.4096508285801,-12.8769159954551,0 -38.4096789234805,-12.8769227501099,0 -38.4097187213204,-12.8769304353619,0 -38.4097533528008,-12.8769402791432,0 -38.4097908488289,-12.8769469645376,0 -38.4098369160661,-12.8769537596539,0 -38.4098685033336,-12.8769647720743,0 -38.4099109716682,-12.8769734579737,0 -38.4099500321983,-12.8769811415308,0 -38.4099795956343,-12.876990521752,0 -38.4100205721932,-12.8770065286061,0 -38.4100671657969,-12.8770247182715,0 -38.410135458946,-12.8770650201922,0 -38.4101711863039,-12.8770792067308,0 -38.4102091237434,-12.8770942120535,0 -38.4102983377403,-12.8771349227147,0 -38.4104082774649,-12.8771806532909,0 -38.4104707828603,-12.8772129848071,0 -38.410522598929,-12.8772444784485,0 -38.4106111904805,-12.8772755122552,0 -38.4106465462757,-12.8772909638292,0 -38.4107121781901,-12.8773263767324,0 -38.4107519457122,-12.877347082797,0 -38.4108516635113,-12.8774286884755,0 -38.4109077709267,-12.8774775530713,0 -38.4109323044894,-12.8775096182668,0 -38.4109635701901,-12.8775399805405,0 -38.4110200471609,-12.877588484249,0 -38.4111779158132,-12.8776728428008,0 -38.4112205228476,-12.8777011507818,0 -38.4112467604205,-12.8777139594982,0 -38.4112996139474,-12.8777354182762,0 -38.4113331185104,-12.8777543017087,0 -38.4113615389588,-12.8777795938098,0 -38.411390680282,-12.8778119405878,0 -38.4114265669977,-12.8778764029825,0 -38.4114346476557,-12.8778892613204,0 -38.4114739650083,-12.877944960301,0 -38.4115690328524,-12.8779260943747,0 -38.4116757981938,-12.8779105099361,0 -38.4117736132832,-12.8778992457067,0 -38.4119624558594,-12.877902201434,0 -38.4122497612119,-12.8778928089838,0 -38.4123888372292,-12.877894296412,0 -38.412529188624,-12.8779022067206,0 -38.4126578288188,-12.8779127129962,0 -38.4127781698592,-12.877925009088,0 -38.412840921775,-12.8779308464142,0 -38.4131294070356,-12.8779689281795,0 -38.4131979801725,-12.8779684487872,0 -38.4132393524957,-12.8779729722051,0 -38.4132871482694,-12.8779896267994,0 -38.4134170915564,-12.8780343158506,0 -38.4135262913853,-12.8780815807042,0 -38.4136141640551,-12.8781446219667,0 -38.4137238897449,-12.8782432486848,0 -38.41385816804,-12.8783659830384,0 -38.414047305953,-12.8785593706477,0 -38.414133634052,-12.8786923059574,0 -38.4141722548798,-12.8787704281261,0 -38.414246199125,-12.8789971957089,0 -38.414270414704,-12.8791267368514,0 -38.4142736023145,-12.8791432011249,0 -38.4142618977471,-12.8791825997734,0 -38.4142654667414,-12.8793126373005,0 -38.4142785015183,-12.8795735393492,0 -38.4142823897331,-12.8798439154528,0 -38.414283503231,-12.8799200548509,0 -38.4143040963029,-12.8799823125192,0 -38.4143097604615,-12.8800039364894,0 -38.4143115890407,-12.8800896624168,0 -38.4143098654353,-12.8802762030291,0 -38.4143012106947,-12.8803516876201,0 -38.4142952344654,-12.8804247367535,0 -38.4142923824277,-12.880541558028,0 -38.4143104185971,-12.8805935920804,0 -38.4143308313482,-12.8806938273713,0 -38.4143610386253,-12.8807834145385,0 -38.4143816758783,-12.8808266832848,0 -38.41444735226,-12.8809626467531,0 -38.4145355553408,-12.8811220803354,0 -38.4145845487255,-12.8812186721013,0 -38.4146322377254,-12.8812816232618,0 -38.4146941314758,-12.8813796001928,0 -38.4147568106454,-12.8814171757143,0 -38.4148509576591,-12.8815175756855,0 -38.414887854942,-12.8815443331452,0 -38.4149143833045,-12.881590960695,0 -38.4173816139375,-12.8809597847806,0 -38.4173889522583,-12.8810148692679,0 -38.4175182406007,-12.8812243977186,0 -38.4175717774306,-12.8812698191355,0 -38.4176240861715,-12.8812882914834,0 -38.4177000553185,-12.8813582676264,0 -38.4177197939465,-12.8814317357254,0 -38.4177320462102,-12.8815541065245,0 -38.4177569273709,-12.8815958472548,0 -38.4178140973691,-12.8816645156489,0 -38.4178776749832,-12.8817124007684,0 -38.4180845582662,-12.8818070821496,0 -38.4181817008176,-12.8818881369147,0 -38.4182052946577,-12.8819286088115,0 -38.4182272566055,-12.8821171010472,0 -38.4182158936187,-12.8821684365996,0 -38.4181445807634,-12.8822772390329,0 -38.4181207354354,-12.8823457273977,0 -38.4181156677975,-12.8823849601224,0 -38.4181167532875,-12.8824337914509,0 -38.4181478569391,-12.8824950775368,0 -38.418183851142,-12.8825539330362,0 -38.4181936894738,-12.8826041401645,0 -38.4182199798866,-12.882594432774,0 -38.4182961146562,-12.8825529164317,0 -38.4183285915796,-12.8825383398764,0 -38.4184072221229,-12.8825336315795,0 -38.418455915177,-12.8825214420342,0 -38.4185234000733,-12.8824738480163,0 -38.4185646527396,-12.8824507006383,0 -38.4186370072854,-12.8824496857213,0 -38.4186881125424,-12.8824705966433,0 -38.4187891173621,-12.8824757036673,0 -38.4189227083275,-12.8824588195017,0 -38.4190287210588,-12.8824505548003,0 -38.4190711493599,-12.8824371757328,0 -38.4191360524685,-12.8824299953246,0 -38.41922344726,-12.8824216892577,0 -38.4192584270233,-12.8824008788816,0 -38.4192709063512,-12.8823849919353,0 -38.4193372547331,-12.88231053927,0 -38.4193734326545,-12.8822897315334,0 -38.4194272236629,-12.8822250167937,0 -38.4194547742216,-12.8821883657337,0 -38.4194936820896,-12.8821027300625,0 -38.4195287517198,-12.8820428567026,0 -38.4195988176597,-12.8819549390324,0 -38.419640084301,-12.8819256426792,0 -38.419680147995,-12.8818583655964,0 -38.4197351653125,-12.8817813558441,0 -38.4197751527983,-12.8817471737409,0 -38.4197927293746,-12.8817190908231,0 -38.4199339522998,-12.8815896452048,0 -38.4200314053011,-12.8815359683016,0 -38.4200776064497,-12.8815251292854,0 -38.4201127153704,-12.8814480753712,0 -38.4201314817483,-12.8814236120197,0 -38.4201452513182,-12.8814077278823,0 -38.4202202460911,-12.8813406184461,0 -38.4202677075374,-12.8813027454197,0 -38.4204126076339,-12.8812173441271,0 -38.4205251173614,-12.881149051658,0 -38.4205738690719,-12.8811111814264,0 -38.4206648379087,-12.8810313574045,0 -38.4206841175272,-12.881024166122,0 -38.4207199046746,-12.881012851838,0 -38.4207562306987,-12.8810076875702,0 -38.4208149223079,-12.8809759880985,0 -38.4209136286884,-12.8809382282375,0 -38.42094977514,-12.880930983794,0 -38.4212117741246,-12.8809057919349,0 -38.4212804388538,-12.8809059436289,0 -38.4213166492374,-12.8809109969364,0 -38.4214961713187,-12.8809603127996,0 -38.4215860486837,-12.8809543624254,0 -38.4216334648538,-12.8809361110433,0 -38.4216722255743,-12.8809142235857,0 -38.4217071492663,-12.8808774981188,0 -38.4217348027134,-12.880835964128,0 -38.4217598674838,-12.8807577122821,0 -38.4217750537434,-12.8806866725485,0 -38.4217926330267,-12.8806170848786,0 -38.4218090904237,-12.8805142187036,0 -38.4218254325315,-12.8804616280091,0 -38.4218429363178,-12.8804249544987,0 -38.4218792954943,-12.8803650836304,0 -38.4219055468597,-12.8803320463776,0 -38.4220004878697,-12.8802882193724,0 -38.4220854609064,-12.8802504287508,0 -38.4221103796194,-12.8802358350305,0 -38.4221403733266,-12.8802187206299,0 -38.4222540295781,-12.8801725837841,0 -38.4223326121428,-12.8801482521619,0 -38.4223789305969,-12.8801262908313,0 -38.4224276592651,-12.8800982763976,0 -38.4224987959264,-12.8800653380288,0 -38.4225537639817,-12.8800495445639,0 -38.422687261113,-12.8800327486304,0 -38.4227146461346,-12.8800278356532,0 -38.4228121675791,-12.8799840140284,0 -38.4232064614638,-12.8799432873447,0 -38.4232589157125,-12.8799385199241,0 -38.4232801141458,-12.8799385665886,0 -38.4233436618878,-12.8799595039903,0 -38.4234196830076,-12.87996699565,0 -38.4234733996903,-12.8799744382067,0 -38.4235581095195,-12.8800113367516,0 -38.423660359032,-12.8800360666128,0 -38.4238025785143,-12.8800339379862,0 -38.4238575913235,-12.8799985223302,0 -38.4238825070235,-12.8799851943657,0 -38.4242107868526,-12.8799540867863,0 -38.4242743990955,-12.8799468118109,0 -38.4243093527286,-12.8799371228237,0 -38.4243405107877,-12.8799347498383,0 -38.4245414769951,-12.8799168352522,0 -38.4246299825954,-12.8799059979045,0 -38.4246599536172,-12.8798987393762,0 -38.4246937063769,-12.8798902232121,0 -38.4247436246815,-12.8798658279086,0 -38.4247873622128,-12.8798438604742,0 -38.4248060803823,-12.8798402846081,0 -38.4252079148574,-12.8798068957916,0 -38.4252640363689,-12.8798106358722,0 -38.4254585703966,-12.8798245357292,0 -38.4257069047995,-12.879809165563,0 -38.4258979001352,-12.8797985524201,0 -38.4259852017203,-12.8797902438455,0 -38.4261124425177,-12.8797684591211,0 -38.4261486864051,-12.8797587727108,0 -38.4261861202318,-12.8797527058637,0 -38.4262722153948,-12.8797480115125,0 -38.4263919655263,-12.8797372419822,0 -38.4264382582849,-12.8797264020189,0 -38.4264894387737,-12.8797143068097,0 -38.4266379336395,-12.8796680634298,0 -38.4266579589719,-12.8796570755172,0 -38.4267641151078,-12.879585149398,0 -38.4267916088348,-12.8795729118779,0 -38.4268240653976,-12.8795669244725,0 -38.4269899939844,-12.8795549897475,0 -38.4271048591555,-12.8795442092025,0 -38.4271460017976,-12.8795283845261,0 -38.4272909518358,-12.8794601599658,0 -38.4273484135541,-12.8794419294777,0 -38.4273820740093,-12.8794334127591,0 -38.4274819101497,-12.879425131073,0 -38.427675307058,-12.879412080417,0 -38.4278287956509,-12.8793989424674,0 -38.4279298135314,-12.8793978971167,0 -38.4279822231111,-12.8794127506706,0 -38.4280457295316,-12.8794520429416,0 -38.4281217256819,-12.8794705649203,0 -38.4281853353786,-12.8795049744836,0 -38.4283473773673,-12.8795811938976,0 -38.4284618700009,-12.8796941120965,0 -38.428527804794,-12.8798006850751,0 -38.4285613126123,-12.8798595338189,0 -38.4286286175563,-12.8798902439518,0 -38.4287796344933,-12.8798697757134,0 -38.4288831826599,-12.8798503794283,0 -38.4289106456067,-12.87985170523,0 -38.4290428555301,-12.8798740568636,0 -38.4291201367057,-12.8798950228112,0 -38.4291828927515,-12.8797773369485,0 -38.4292544032526,-12.8797009939522,0 -38.4292923825708,-12.8796574922687,0 -38.4293221170573,-12.8796325095612,0 -38.4293395808347,-12.8796130159938,0 -38.4293788514868,-12.8795690649885,0 -38.4294227581993,-12.8795536076653,0 -38.4294764938283,-12.8794712579008,0 -38.4298165799807,-12.8792319222238,0 -38.4299782709938,-12.8794635789281,0 -38.4302940397673,-12.8799110512859,0 -38.4304109926117,-12.880077776368,0 -38.4305677380825,-12.8802959487916,0 -38.4306024944446,-12.8803327365234,0 -38.4308903574464,-12.8805267791923,0 -38.4311756430638,-12.8807195500258,0 -38.4316701032306,-12.8810560062454,0 -38.4319217957,-12.8812279058755,0 -38.4322603711123,-12.881454971456,0 -38.433786634863,-12.8824179462769,0 -38.4345585749169,-12.8833918542285,0 -38.4351648268274,-12.8840248654375,0 -38.4357496602807,-12.8845513999548,0 -38.4365440988331,-12.8851564203345,0 -38.4385235052816,-12.8864523810075,0 -38.4410737584047,-12.8880333881117,0 -38.4414277733728,-12.8882471830024,0 -38.4424537076558,-12.888880982817,0 -38.4431399599332,-12.8893224475764,0 -38.4439320985023,-12.8899823292173,0 -38.445333825274,-12.8912047641671,0 -38.4460583513888,-12.8921024026618,0 -38.4470824447861,-12.8937134866837,0 -38.4482820782271,-12.8957322079934,0 -38.4500821655126,-12.8985057827046,0 -38.4510847629842,-12.8997260838245,0 -38.4533297230664,-12.9023852798768,0 -38.4534411765371,-12.9025493615841,0 -38.4539360715376,-12.9031439402381,0 -38.4544785158216,-12.903788531405,0 -38.4549112858667,-12.9042991554356,0 -38.4552022507986,-12.9046572089277,0 -38.4554686026098,-12.90501647681,0 -38.455907185842,-12.9056114772712,0 -38.4561923310258,-12.9060193414144,0 -38.4566465152106,-12.9066906912711,0 -38.4570221492315,-12.9073698346296,0 -38.4574807875937,-12.9082860613903,0 -38.4580785226265,-12.9095466402185,0 -38.458448581275,-12.9103358164968,0 -38.4593574719524,-12.9122640066391,0 -38.4596473924315,-12.9128578799543,0 -38.4599574752862,-12.9134211407984,0 -38.4601311431099,-12.9137217082468,0 -38.4603641163924,-12.9140928385753,0 -38.4605753250255,-12.9143829940439,0 -38.4608445945117,-12.914722459961,0 -38.4612795062762,-12.9152375998535,0 -38.4616126250889,-12.9151193783969,0 -38.4618865210495,-12.9149778859394,0 -38.4622611550576,-12.9147142563859,0 -38.4624425347466,-12.9145568390996,0 -38.4626661973138,-12.9143261744888,0 -38.4628555695299,-12.9140517642423,0 -38.4630174911532,-12.9137681645812,0 -38.4631304566245,-12.913531484897,0 -38.4632868247922,-12.9132581820011,0 -38.4634539473656,-12.9129990976924,0 -38.463547905459,-12.9128570530584,0 -38.463770339735,-12.9125960022757,0 -38.4639625669014,-12.9124081330629,0 -38.464183424831,-12.9122375934403,0 -38.4643913170644,-12.9120953298757,0 -38.4646797056046,-12.9119420183811,0 -38.4648998239053,-12.9118154228438,0 -38.4649793400249,-12.9117452354482,0 -38.4650459920799,-12.9116123576079,0 -38.4649841585661,-12.9114300259409,0 -38.4648621649723,-12.9111887952646,0 -38.4647655465042,-12.9110655298783,0 -38.464729968998,-12.9110204256915,0 -38.4648160351979,-12.9109476294389,0 -38.4648708463315,-12.9109210664571,0 -38.464917544348,-12.9108951198273,0 -38.4649571405274,-12.910871057565,0 -38.4649961870866,-12.9108453665328,0 -38.4650398300914,-12.9108255624854,0 -38.4650763013906,-12.9107971534389,0 -38.4651142477386,-12.9107686569808,0 -38.4651515540158,-12.9107377177488,0 -38.4651828757608,-12.9107034205655,0 -38.4652069022836,-12.9106752573118,0 -38.4652367337711,-12.9106481910233,0 -38.4652678405732,-12.9106282708662,0 -38.4652987487893,-12.9106150417035,0 -38.4653367043102,-12.9105822048589,0 -38.4653787103147,-12.9105519081749,0 -38.4654159206977,-12.9105226867696,0 -38.4654635173187,-12.9105075928008,0 -38.4654979227386,-12.9104969930717,0 -38.4655613908417,-12.9104740646137,0 -38.4656051412865,-12.9104470267357,0 -38.4656677901294,-12.910419213659,0 -38.4657123494223,-12.9104019432499,0 -38.4657416847862,-12.9103914235499,0 -38.4657889032401,-12.9103807595425,0 -38.4658305223942,-12.9103589618846,0 -38.4658721405812,-12.9103376163399,0 -38.4659032457607,-12.9103184194952,0 -38.4659291802795,-12.9103032811812,0 -38.4659429247234,-12.9102986976159,0 -38.4659872867591,-12.9102874851898,0 -38.4660343066239,-12.9102835121366,0 -38.4660807833939,-12.9102748358971,0 -38.4661263374128,-12.9102666098867,0 -38.4661745621218,-12.910259564839,0 -38.466220926175,-12.9102605637547,0 -38.4662718096795,-12.9102603059479,0 -38.4663226046501,-12.9102583298866,0 -38.4663718272088,-12.9102588824892,0 -38.4664191113267,-12.9102606970675,0 -38.4664590693965,-12.9102832038739,0 -38.4664944400071,-12.9102955737792,0 -38.4665092666176,-12.9103022954427,0 -38.4665483418387,-12.9103064442802,0 -38.4665936739139,-12.9103159409184,0 -38.466642327309,-12.9103240879591,0 -38.4666580870254,-12.9103254764782,0 -38.466684172121,-12.9103262530902,0 -38.4667085094598,-12.9103253080705,0 -38.4667473447628,-12.9103121853274,0 -38.466829015267,-12.9103123519083,0 -38.4669167751367,-12.9103099085733,0 -38.4669477501212,-12.9103086153689,0 -38.4669998340735,-12.9103073651998,0 -38.4670486110796,-12.910300682814,0 -38.4671686864219,-12.910273348135,0 -38.4672304818983,-12.9102566551388,0 -38.4672963091113,-12.9102513638196,0 -38.4673560423687,-12.9102508525615,0 -38.4674691142773,-12.9102660029487,0 -38.467569611212,-12.910299393409,0 -38.4675961206537,-12.9103174418581,0 -38.4676583518921,-12.9103561798165,0 -38.4676938742173,-12.9103840124465,0 -38.467747822583,-12.9104164942337,0 -38.467833706777,-12.9104292380756,0 -38.4678494756911,-12.9104262861698,0 -38.4679101533524,-12.9104151066273,0 -38.4679507061633,-12.9104179923221,0 -38.4679863394509,-12.9104369635463,0 -38.4680189593396,-12.9104860399663,0 -38.4680523984966,-12.9104528318248,0 -38.4681646452662,-12.9103787313293,0 -38.4682191015687,-12.9103453850727,0 -38.4683205824847,-12.9103058047375,0 -38.4685013028417,-12.9102826618737,0 -38.4686515964912,-12.9102630740194,0 -38.4689578173496,-12.9101751707211,0 -38.4691072923583,-12.9101066613162,0 -38.4692357194489,-12.9100965232797,0 -38.4695028159469,-12.9100712944562,0 -38.4697138998015,-12.9100744354466,0 -38.4699858407671,-12.9100686572106,0 -38.4700668168532,-12.9100483854429,0 -38.4702031815486,-12.9099896146619,0 -38.4703198595176,-12.9099119956335,0 -38.4704384791559,-12.9097439560237,0 -38.4704974118891,-12.9096419861764,0 -38.4705260360599,-12.9095312741839,0 -38.4705415639575,-12.9092924041992,0 -38.4705031665149,-12.9090976425636,0 -38.470478595897,-12.9090342956746,0 -38.4704346392805,-12.9088530864389,0 -38.4703702341174,-12.9086209267987,0 -38.4706226468437,-12.9085641088807,0 -38.470694667024,-12.9085505101738,0 -38.4712592910457,-12.9082733260799,0 -38.4712567161364,-12.9082704272894,0 -38.4712509233508,-12.9082635433142,0 -38.4712044136419,-12.9082442792636,0 -38.4710920887064,-12.9082248820756,0 -38.4706351084762,-12.9078986099931,0 -38.4706204136349,-12.9078730805395,0 -38.4706102313356,-12.9078495495602,0 -38.4705945996888,-12.9078311617421,0 -38.4705841406691,-12.9078077206261,0 -38.4705636702067,-12.9077671690123,0 -38.4705493418088,-12.9077427253907,0 -38.4705328978861,-12.9077161072972,0 -38.4705163600763,-12.9076903028329,0 -38.4704863447983,-12.9076299289249,0 -38.4704763459251,-12.9076068504345,0 -38.4704588179583,-12.9075697409022,0 -38.4704128635391,-12.9075057177266,0 -38.4703756698501,-12.9074399037991,0 -38.4703547284722,-12.9074041437134,0 -38.4703315131084,-12.907353911104,0 -38.4703075605212,-12.9073035865747,0 -38.4703040836511,-12.9072912818027,0 -38.4702983242261,-12.9072685735922,0 -38.4702913030565,-12.9072322087297,0 -38.4702880657475,-12.9071936813451,0 -38.4702862092025,-12.9071560610023,0 -38.4702796496875,-12.9071193353767,0 -38.4702586076041,-12.9070876441814,0 -38.4702329532113,-12.9070575712805,0 -38.4701997189261,-12.9070376105606,0 -38.4701689787763,-12.9070151230052,0 -38.4701531182798,-12.9069741285802,0 -38.4701460889504,-12.90694165195,0 -38.4701428751068,-12.9069357678468,0 -38.4701299214631,-12.9069151248176,0 -38.4700851716462,-12.9068482104464,0 -38.4700620956067,-12.9068194086976,0 -38.470026633867,-12.9068066774007,0 -38.4699997697934,-12.9067820274951,0 -38.4699732529131,-12.9067675962562,0 -38.4699349532979,-12.9067455454742,0 -38.4699006131369,-12.906725492052,0 -38.4698745803976,-12.9067000299992,0 -38.4698733958044,-12.9066935170355,0 -38.4698662688157,-12.9066636625105,0 -38.4698671174643,-12.9066546217837,0 -38.4698709988536,-12.9066061621348,0 -38.4698680669115,-12.9065539812693,0 -38.4698586132243,-12.9064909362448,0 -38.4698486649344,-12.9064438953491,0 -38.469836385539,-12.9064095091533,0 -38.469829363122,-12.9063737772482,0 -38.4698311905078,-12.9063377015877,0 -38.46984481299,-12.9063033679056,0 -38.4699121673107,-12.9062727601285,0 -38.469935179117,-12.9062445039141,0 -38.4699653651411,-12.9062236770463,0 -38.469965717857,-12.9061875079701,0 -38.4700015019369,-12.9061784476266,0 -38.4700391046165,-12.9061812365704,0 -38.4700539257489,-12.9061467244559,0 -38.4700589665504,-12.9061167137442,0 -38.4701043320968,-12.9060662583911,0 -38.4701328828828,-12.9060340347041,0 -38.4701545167412,-12.9060035150641,0 -38.47016593014,-12.90596763967,0 -38.4701621312274,-12.9059331802452,0 -38.4701688475756,-12.9058953964197,0 -38.4701869828672,-12.905862880349,0 -38.4702004230128,-12.9058275516057,0 -38.4702187416981,-12.9057954880263,0 -38.4702293247202,-12.9057599726438,0 -38.4702297568182,-12.9057298621658,0 -38.4702320732424,-12.905724170116,0 -38.4702552652689,-12.9056540476976,0 -38.4702695722945,-12.9056009975062,0 -38.4702843561877,-12.9055403526227,0 -38.4702936384301,-12.9055097175236,0 -38.4703116801667,-12.9054778342236,0 -38.4703185774063,-12.9054416783988,0 -38.4703189630534,-12.9054336314005,0 -38.4703212495297,-12.9053983704815,0 -38.4703252769034,-12.905368086435,0 -38.4703342768928,-12.9053401634967,0 -38.4703441796204,-12.9053212848352,0 -38.470352430961,-12.9052986954246,0 -38.4703689997435,-12.9052659048912,0 -38.4703832658068,-12.9052322958728,0 -38.4703936878306,-12.905185657942,0 -38.4704014530801,-12.9051312381242,0 -38.4704050625575,-12.9050805172942,0 -38.4704059853895,-12.9050362111622,0 -38.470405382964,-12.9050158644316,0 -38.4703983620188,-12.9049794091435,0 -38.4703925906417,-12.9049623976515,0 -38.4703739921265,-12.9049084669898,0 -38.4703609753091,-12.9048740793214,0 -38.4703404834084,-12.9048438360399,0 -38.4702902675263,-12.9048339684886,0 -38.4702663081823,-12.9048307551013,0 -38.4702317818007,-12.9048116960205,0 -38.4702093247011,-12.9047954645446,0 -38.4701982885963,-12.9047835061549,0 -38.4701831260417,-12.9047613214377,0 -38.4701735190415,-12.9047273023666,0 -38.4701723064228,-12.9046903162932,0 -38.4701743627828,-12.904589225878,0 -38.4701756566418,-12.9045438354044,0 -38.4701799925253,-12.9044983606688,0 -38.4701818939296,-12.904470875475,0 -38.4701765247874,-12.9044379500827,0 -38.4701613089112,-12.90439731866,0 -38.4701498648629,-12.9043602214332,0 -38.4701402062518,-12.9043069418389,0 -38.4701384143065,-12.9042824331709,0 -38.4701373014838,-12.9042418303188,0 -38.4701368717811,-12.9041832343764,0 -38.4701312891699,-12.9041641434979,0 -38.4701246903314,-12.9041461356544,0 -38.4701071397927,-12.9041198769932,0 -38.4700729976475,-12.9040934942889,0 -38.4700499229917,-12.9040641499983,0 -38.4700329346656,-12.9040335520958,0 -38.4700367563439,-12.9039696297227,0 -38.4700441188348,-12.9039313950803,0 -38.4700526897097,-12.9038883703878,0 -38.4700576784509,-12.9038392799954,0 -38.470058977462,-12.9037914480694,0 -38.4700597559692,-12.9037281524998,0 -38.4700586570564,-12.9036809486862,0 -38.4700552205451,-12.9035619430856,0 -38.470049844961,-12.9035320921096,0 -38.4700426096659,-12.9035099234475,0 -38.4700340825691,-12.9034883851392,0 -38.4700188467756,-12.9034572482401,0 -38.4700134700553,-12.9034279398081,0 -38.4700062836992,-12.9033825321483,0 -38.4700105982601,-12.9033471849124,0 -38.4700234797017,-12.9033144773458,0 -38.4700259014196,-12.903302546219,0 -38.4700309507214,-12.9032684664142,0 -38.4700315755566,-12.9032343776442,0 -38.4700237152177,-12.9032026227181,0 -38.4700146413569,-12.9031780992928,0 -38.4700030800697,-12.9031529378553,0 -38.4699909655365,-12.9031278657208,0 -38.4699806252041,-12.9030919462411,0 -38.4699821460617,-12.9029825356784,0 -38.4699918913995,-12.9029508164264,0 -38.4700035634872,-12.9029233510295,0 -38.4700078273934,-12.9029120566068,0 -38.4700158501256,-12.9028666797634,0 -38.4700195975274,-12.9028380227895,0 -38.4700280992521,-12.902827822047,0 -38.4700391893347,-12.902814099993,0 -38.4700472341748,-12.9028019994096,0 -38.4704025829347,-12.9027105765697,0 -38.4704137524219,-12.9027029131015,0 -38.4704333141244,-12.9026932772848,0 -38.4704452267261,-12.9026829025846,0 -38.4704650678078,-12.9026719109634,0 -38.4704994824207,-12.9026563371931,0 -38.4705352690203,-12.9026458299678,0 -38.4705738072081,-12.9026418388717,0 -38.4706455814815,-12.9026128674453,0 -38.4706841225153,-12.9026075199707,0 -38.4707211904407,-12.902601355689,0 -38.4707329036543,-12.9025981241079,0 -38.4707584516525,-12.9025909418409,0 -38.470793795793,-12.9025716625064,0 -38.4708302243711,-12.9025626937554,0 -38.4708432193032,-12.90256362429,0 -38.470868471949,-12.9025653934413,0 -38.4709044006798,-12.9025749606943,0 -38.4709217480343,-12.9026101709203,0 -38.4709221328908,-12.9026463415047,0 -38.4709355174375,-12.902681182016,0 -38.4709560098161,-12.9027111539794,0 -38.4709852790816,-12.9027315586942,0 -38.4710194363505,-12.9027507073481,0 -38.4710550730043,-12.902767688801,0 -38.4710899709234,-12.902785301727,0 -38.4711219176887,-12.9028036320775,0 -38.4711446607056,-12.9028153428255,0 -38.471191811427,-12.9028361453702,0 -38.4712292161695,-12.9028451730172,0 -38.4712634747668,-12.9028599814684,0 -38.4712985705515,-12.9028711746266,0 -38.4713169075459,-12.9028741052757,0 -38.4713367187909,-12.9028773101768,0 -38.471412022225,-12.9028796325568,0 -38.4714863046976,-12.9028852985594,0 -38.4715722137213,-12.9028851104363,0 -38.4716333231586,-12.9028868615292,0 -38.4716700946504,-12.9028901910899,0 -38.4717352728868,-12.902929657404,0 -38.4717719432918,-12.902937236699,0 -38.4717891701977,-12.9029420639885,0 -38.4718207566804,-12.9029564148494,0 -38.4718399120806,-12.9029646821618,0 -38.4719144828837,-12.9029647423057,0 -38.4719859578203,-12.9029466208487,0 -38.4720229275258,-12.9029433497699,0 -38.4720653333552,-12.9029411747525,0 -38.4720970556491,-12.9029347282131,0 -38.4721341220795,-12.902929287125,0 -38.4721719257291,-12.9029239379438,0 -38.4722088908795,-12.9029228370179,0 -38.4722465904065,-12.9029231843611,0 -38.4722959058506,-12.9029227413138,0 -38.4723377535002,-12.9029230065882,0 -38.4723748982647,-12.9029241666146,0 -38.4724170186534,-12.9029262409172,0 -38.4724503862764,-12.9029263986442,0 -38.4724900213181,-12.9029268402807,0 -38.4725429577878,-12.9029139259038,0 -38.4725798292452,-12.9029135481328,0 -38.4726176298542,-12.9029096456731,0 -38.4726540540698,-12.9029027564233,0 -38.4726898436577,-12.9028908021148,0 -38.4727255350048,-12.9028817411884,0 -38.4727619576987,-12.9028755753165,0 -38.4727990225947,-12.9028708575264,0 -38.4728347169656,-12.9028603497984,0 -38.4728860848952,-12.9028481555858,0 -38.4729079630468,-12.9028327370788,0 -38.4725725887763,-12.9019259167278,0 -38.4724193843863,-12.9014456343092,0 -38.4725209670555,-12.9009595359583,0 -38.4725779955273,-12.9007531212736,0 -38.4725264357981,-12.9007250761316,0 -38.4725093762282,-12.9006844411109,0 -38.4725462705367,-12.9005410117404,0 -38.4725709175226,-12.9004358072553,0 -38.4725636637858,-12.9003783730405,0 -38.4725174098481,-12.9003256526934,0 -38.4724420234169,-12.900275315055,0 -38.4726180813229,-12.9000101835396,0 -38.4727500932601,-12.8998262548015,0 -38.4729042675168,-12.8996670565443,0 -38.4734612282383,-12.8991647844919,0 -38.4736940908465,-12.8985782166751,0 -38.4727394501203,-12.8967653617065,0 -38.4708736495061,-12.8933460788759,0 -38.4708365439209,-12.8932830683559,0 -38.4708016531581,-12.8932187963649,0 -38.4707838383326,-12.8931870213191,0 -38.4707609473652,-12.8931584008687,0 -38.4707300200923,-12.8931379928029,0 -38.4707047282764,-12.8931114472585,0 -38.4706834063498,-12.8930818353042,0 -38.4706581145445,-12.8930552897555,0 -38.4706231560318,-12.8930671550989,0 -38.470590766378,-12.8930847223817,0 -38.4705558078584,-12.893096587716,0 -38.4705221334809,-12.893111439654,0 -38.4704890089044,-12.8931278299175,0 -38.4704549673491,-12.8931419577072,0 -38.4704203752253,-12.8931549088589,0 -38.4703850487585,-12.8931664117268,0 -38.4703507321955,-12.8931798155495,0 -38.4703173327927,-12.8931953914132,0 -38.4702820055553,-12.8932072559635,0 -38.4702462237267,-12.8932161355781,0 -38.4702183936596,-12.8932131856639,0 -38.4701800692197,-12.8932038847843,0 -38.4701517720152,-12.8932039179283,0 -38.4701001676756,-12.8931979358634,0 -38.4700830910841,-12.8931658005695,0 -38.4700785587284,-12.8931295311413,0 -38.4700744649813,-12.8931038422756,0 -38.4700692645926,-12.8930784224431,0 -38.470061689402,-12.8930426894015,0 -38.470045155867,-12.8929714917908,0 -38.4700323253233,-12.8929364715044,0 -38.4700183875706,-12.892901991523,0 -38.4699975271772,-12.8928721091768,0 -38.469973068064,-12.8928441184579,0 -38.4699265488129,-12.8927869663523,0 -38.469874027143,-12.892735137132,0 -38.4698495663439,-12.8927079602199,0 -38.469823906166,-12.8926813234238,0 -38.469790850309,-12.89266507047,0 -38.4697554791055,-12.8926540574469,0 -38.4697223303229,-12.8926381659947,0 -38.4696926974228,-12.892615951942,0 -38.4696666678198,-12.892589676081,0 -38.4696441462957,-12.8925607850131,0 -38.4696240246866,-12.8925302711639,0 -38.4695844274511,-12.892468883072,0 -38.4695681818567,-12.8924361164589,0 -38.469535323514,-12.8923698590892,0 -38.4695022764638,-12.8923056810984,0 -38.4694814177031,-12.8922750753205,0 -38.4694624972323,-12.8922432075257,0 -38.4694457900441,-12.8922108016683,0 -38.4694089614969,-12.8921477915213,0 -38.4693698258042,-12.8920861330611,0 -38.4693349357674,-12.8920217704655,0 -38.4693259783146,-12.891985944178,0 -38.4693207087051,-12.8919496732437,0 -38.4693126579485,-12.8918772268442,0 -38.4693099687825,-12.89184114199,0 -38.4693172334484,-12.8918054390135,0 -38.4693211804862,-12.8917694580372,0 -38.469319966645,-12.8917331049,0 -38.4693228093296,-12.8916963078634,0 -38.4693179076515,-12.8916603993727,0 -38.4693092267282,-12.8916245736448,0 -38.4692998070972,-12.891589379391,0 -38.4692930629348,-12.8915530150415,0 -38.4692863174408,-12.8915172836611,0 -38.4692764369563,-12.8914820884722,0 -38.4692621284072,-12.8914486927965,0 -38.4692408065972,-12.8914191711572,0 -38.4692218709774,-12.8913945372813,0 -38.4692030269618,-12.8913701748636,0 -38.4691868582236,-12.8913447327744,0 -38.4691515008015,-12.8912835340686,0 -38.4691381975972,-12.891254209531,0 -38.4691216000225,-12.8912135752409,0 -38.4691061039431,-12.8911751133732,0 -38.4690921753624,-12.89113638341,0 -38.4690763930583,-12.8911025326133,0 -38.469061993146,-12.8910687750441,0 -38.469027659019,-12.8910031475942,0 -38.46901593477,-12.8909681295056,0 -38.469003196634,-12.8909331093599,0 -38.4689907334922,-12.890898813168,0 -38.4689764257739,-12.8908650557813,0 -38.4689635010175,-12.8908311203501,0 -38.4689382062606,-12.8907624367902,0 -38.4689307234598,-12.8907267039055,0 -38.4689243472938,-12.8906907019918,0 -38.4689156664548,-12.8906548762516,0 -38.4689039414735,-12.890620219855,0 -38.4688825210128,-12.8905500973565,0 -38.4688704273537,-12.8905154402105,0 -38.4688564881676,-12.89048177399,0 -38.468842457004,-12.8904480171576,0 -38.4688311005373,-12.8904134519301,0 -38.4688202056943,-12.8903785259405,0 -38.4688100487989,-12.8903433301742,0 -38.4688006300415,-12.8903077742068,0 -38.4687870603242,-12.8902737470342,0 -38.4687704470417,-12.8902406179308,0 -38.4687567843976,-12.8902069522664,0 -38.4687337959487,-12.8901373691221,0 -38.4687224395094,-12.8901028038902,0 -38.4687133885049,-12.890067700789,0 -38.4687043384561,-12.8900321455665,0 -38.4687009127772,-12.8899956975121,0 -38.4686963806599,-12.8899594280612,0 -38.4686936915918,-12.8899233431997,0 -38.4686914649067,-12.8898865358799,0 -38.4686857339915,-12.8898505352696,0 -38.4686819398217,-12.8898139960421,0 -38.4686815563762,-12.8897772828873,0 -38.4686799747025,-12.8897405673006,0 -38.4686768041103,-12.8896705722461,0 -38.468676426385,-12.8896311463653,0 -38.4686770558709,-12.8895948873884,0 -38.4686765793006,-12.8895586261669,0 -38.4686749978183,-12.8895218201555,0 -38.4686748899331,-12.8894855596819,0 -38.468677087474,-12.8894487613394,0 -38.4686806673925,-12.8894120562267,0 -38.4686836023015,-12.8893752593803,0 -38.4686853376486,-12.8893390930715,0 -38.4686867050727,-12.8893025643176,0 -38.4686899155393,-12.8892662201528,0 -38.4686945997909,-12.8892303311015,0 -38.4686974417609,-12.889193895764,0 -38.4687069049064,-12.8891209423328,0 -38.4687138008785,-12.8890852386177,0 -38.4687246583011,-12.8890504471865,0 -38.4687368971438,-12.8890162011051,0 -38.4687471106965,-12.8889807753941,0 -38.4687609255913,-12.8889421921292,0 -38.4687709387828,-12.888914361675,0 -38.4687923328569,-12.8888657566572,0 -38.4688210395045,-12.8888024272658,0 -38.4688351207887,-12.888768637039,0 -38.4688499384843,-12.888735300428,0 -38.4688637432474,-12.8887015096383,0 -38.4688712843806,-12.8886658072255,0 -38.468883970385,-12.8885943071133,0 -38.4689294757223,-12.8876450316672,0 -38.4689296714964,-12.8876396065888,0 -38.4687141320321,-12.8874416820497,0 -38.4685987311229,-12.8872681943693,0 -38.4685323853197,-12.8871288962786,0 -38.4685067885556,-12.8869413941516,0 -38.4685017064344,-12.8865977703889,0 -38.4678543360428,-12.8860131266556,0 -38.4668479040506,-12.8848040019233,0 -38.4655715665665,-12.8814409520125,0 -38.4646746400083,-12.8786777346647,0 -38.4646738291205,-12.8786689618222,0 -38.464571772969,-12.8775092386659,0 -38.4641908178747,-12.876350844235,0 -38.4600313406942,-12.8743220413713,0 -38.4600483830328,-12.87118190229,0 -38.4600407899936,-12.8689153942363,0 -38.45921601125,-12.8683574023735,0 -38.4573864486597,-12.8671225826083,0 -38.4539490426113,-12.862046699492,0 -38.4539570936652,-12.8620314344988,0 -38.4539565688533,-12.8620184122691,0 -38.453955512973,-12.8619952613826,0 -38.4539339196528,-12.8619653763292,0 -38.4539146331003,-12.861934230132,0 -38.4539099522463,-12.8619252683562,0 -38.4538978374414,-12.8619019135994,0 -38.4538810149976,-12.8618819851755,0 -38.4538630815403,-12.8618644054764,0 -38.4538463395295,-12.8618499026917,0 -38.4538145840821,-12.8618312995432,0 -38.4537940662146,-12.8618155229501,0 -38.4537731757943,-12.8618015540711,0 -38.4537539391884,-12.8617899396727,0 -38.453720703117,-12.8617741365917,0 -38.4536985238203,-12.8617595320512,0 -38.4536741359891,-12.8617433856919,0 -38.4536436757121,-12.8617225246067,0 -38.4535992304566,-12.861690783443,0 -38.4535514676155,-12.8616589449372,0 -38.4535089589359,-12.8616266652455,0 -38.4534795150005,-12.8616046307399,0 -38.4534521035019,-12.8615803398514,0 -38.4533964491156,-12.8615326605797,0 -38.4533863380383,-12.8615203417724,0 -38.4533491072328,-12.8614766795583,0 -38.4533345736144,-12.8614638089864,0 -38.4532968714519,-12.8614250287094,0 -38.4532476466981,-12.861344809965,0 -38.4532094544448,-12.8612770023712,0 -38.4531891775623,-12.8612350935378,0 -38.45276540867,-12.8608577725143,0 -38.4530736519439,-12.8600228923133,0 -38.4537334750384,-12.8582976999579,0 -38.4539803831298,-12.8576529439531,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
